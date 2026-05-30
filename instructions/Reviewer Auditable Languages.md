@@ -23,7 +23,7 @@
       <th rowspan="2" align="center">英语</th>
       <th rowspan="2" align="center">日语</th>
       <th rowspan="2" align="center">韩语</th>
-      <th colspan="5" align="center">其它</th>
+      <th colspan="6" align="center">其它</th>
     </tr>
     <tr>
       <th align="center">普通话</th>
@@ -34,6 +34,7 @@
       <th align="center">西班牙语</th>
       <th align="center">葡萄牙语</th>
       <th align="center">俄语</th>
+      <th align="center">希腊语</th>
     </tr>
   </thead>
   <tbody>
@@ -43,6 +44,7 @@
       <td align="center">✅</td>
       <td align="center">❌</td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
@@ -64,6 +66,7 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
+      <td align="center">❌</td>
     </tr>
     <tr>
       <td align="center"><b><img src="https://avatars.githubusercontent.com/u/108002475?v=4" width="30" height="30" alt="apoint123" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/apoint123">apoint123</a></b></td>
@@ -72,6 +75,7 @@
       <td align="center">❌</td>
       <td align="center">✅</td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
@@ -92,6 +96,7 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
+      <td align="center">❌</td>
     </tr>
     <tr>
       <td align="center"><b><img src="https://avatars.githubusercontent.com/u/144699338?v=4" width="30" height="30" alt="toaltf4" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/toaltf4">toaltf4</a></b></td>
@@ -106,10 +111,12 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
+      <td align="center">❌</td>
     </tr>
     <tr>
       <td align="center"><b><img src="https://avatars.githubusercontent.com/u/56493273?v=4" width="30" height="30" alt="MianSoft" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/MianSoft">MianSoft</a></b></td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
@@ -134,14 +141,16 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
+      <td align="center">❌</td>
     </tr>
-        <tr>
+    <tr>
       <td align="center"><b><img src="https://avatars.githubusercontent.com/u/79665752?v=4" width="30" height="30" alt="EnchStudio" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/ench233">EnchStudio</a></b></td>
       <td align="center">✅</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">✅</td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
@@ -162,6 +171,7 @@
       <td align="center">✅</td>
       <td align="center">✅</td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
     </tr>
     <tr>
       <td align="center"><b><img src="https://avatars.githubusercontent.com/u/115442729?v=4" width="30" height="30" alt="WindDrift" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/WindDrift">WindDrift</a></b></td>
@@ -169,6 +179,7 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
@@ -190,6 +201,7 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
+      <td align="center">❌</td>
     </tr>
         <tr>
       <td align="center"><b><img src="https://avatars.githubusercontent.com/u/86895196?v=4" width="30" height="30" alt="HGUFlyingDog" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/HGUFlyingDog">HGUFlyingDog</a></b></td>
@@ -197,6 +209,7 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">✅</td>
+      <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
@@ -218,6 +231,7 @@
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
+      <td align="center">✅</td>
     </tr>
   </tbody>
 </table>
